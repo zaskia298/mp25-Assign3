@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Silakan masuk untuk melanjutkan</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="register_prompt">Belum punya akun?</string>
+    <string name="register_button">DAFTAR</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Daftar</string>
+    <string name="name_hint">Nama Lengkap</string>
+    <string name="login_prompt">Sudah punya akun?</string>
+</resources>
